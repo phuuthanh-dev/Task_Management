@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "removeComments": true,
+      "outDir": "dist",
+    }
+}
